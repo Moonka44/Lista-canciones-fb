@@ -5,8 +5,7 @@
 ---
 
 ## 🎨 Vista Previa
-> **Tip para Montse:** Aquí deberías poner un GIF de la página funcionando o una captura de pantalla matona. Para poner una imagen usa: 
-> `![Captura del proyecto](./ruta-a-tu-imagen.png)`
+![Ejemplo web](./assets/img/Listita.gif)
 
 ---
 
